@@ -1,6 +1,8 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@InProceedings{Bahat_2021_CVPR,
+    author    = {Bahat, Yuval and Michaeli, Tomer},
+    title     = {What's in the Image? Explorable Decoding of Compressed Images},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {2908-2917}
 }
